@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name BasicProject-rescue)(type Legacy)(uri ${KIPRJMOD}/BasicProject-rescue.lib)(options "")(descr ""))
+)
